@@ -1,16 +1,14 @@
-# prk3_3_3
+# PKS 3 практика
+Студент: Трунин Кирилл  
+Группа: ЭФБО-04-22  
+Магазин защитного снаряжения.
 
-A new Flutter project.
+## Скриншоты  
+![Screenshot_20241008_143111](https://github.com/user-attachments/assets/7b738cb5-f82a-4ef9-8543-a2ee3f0a6a62)  
+![Screenshot_20241008_143215](https://github.com/user-attachments/assets/0259e565-5158-49d4-8575-2190ae8d18fc)  
+![Screenshot_20241008_143224](https://github.com/user-attachments/assets/8bc4f532-1f77-4dee-863f-8dd3c219c3d0)  
 
-## Getting Started
+## Запись экрана
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/d360336d-976d-46cc-aa8f-dc74e6036b75
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
